@@ -1,4 +1,4 @@
-# sampleapp
+# Covid-19 Dashboard UI
 
 A new Flutter application.
 
